@@ -1,0 +1,448 @@
+{
+    "points_logs": [
+        {
+            "_id": "674993e1a1b1f1e4d9020001",
+            "user_id": "674993caa1b1f1e4d9010001",
+            "station_id": "S01",
+            "points": 10
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020002",
+            "user_id": "674993caa1b1f1e4d9010001",
+            "station_id": "S03",
+            "points": 12
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020003",
+            "user_id": "674993caa1b1f1e4d9010001",
+            "station_id": "S02",
+            "points": 8
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020004",
+            "user_id": "674993caa1b1f1e4d9010001",
+            "station_id": "S05",
+            "points": 17
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020005",
+            "user_id": "674993caa1b1f1e4d9010002",
+            "station_id": "S01",
+            "points": 15
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020006",
+            "user_id": "674993caa1b1f1e4d9010002",
+            "station_id": "S02",
+            "points": 10
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020007",
+            "user_id": "674993caa1b1f1e4d9010002",
+            "station_id": "S03",
+            "points": 8
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020008",
+            "user_id": "674993caa1b1f1e4d9010002",
+            "station_id": "S04",
+            "points": 12
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020009",
+            "user_id": "674993caa1b1f1e4d9010002",
+            "station_id": "S05",
+            "points": 20
+        },
+        {
+            "_id": "674993e1a1b1f1e4d902000a",
+            "user_id": "674993caa1b1f1e4d9010003",
+            "station_id": "S01",
+            "points": 11
+        },
+        {
+            "_id": "674993e1a1b1f1e4d902000b",
+            "user_id": "674993caa1b1f1e4d9010003",
+            "station_id": "S03",
+            "points": 7
+        },
+        {
+            "_id": "674993e1a1b1f1e4d902000c",
+            "user_id": "674993caa1b1f1e4d9010003",
+            "station_id": "S06",
+            "points": 15
+        },
+        {
+            "_id": "674993e1a1b1f1e4d902000d",
+            "user_id": "674993caa1b1f1e4d9010004",
+            "station_id": "S01",
+            "points": 15
+        },
+        {
+            "_id": "674993e1a1b1f1e4d902000e",
+            "user_id": "674993caa1b1f1e4d9010004",
+            "station_id": "S02",
+            "points": 10
+        },
+        {
+            "_id": "674993e1a1b1f1e4d902000f",
+            "user_id": "674993caa1b1f1e4d9010004",
+            "station_id": "S03",
+            "points": 14
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020010",
+            "user_id": "674993caa1b1f1e4d9010004",
+            "station_id": "S04",
+            "points": 20
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020011",
+            "user_id": "674993caa1b1f1e4d9010005",
+            "station_id": "S01",
+            "points": 10
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020012",
+            "user_id": "674993caa1b1f1e4d9010005",
+            "station_id": "S03",
+            "points": 15
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020013",
+            "user_id": "674993caa1b1f1e4d9010005",
+            "station_id": "S06",
+            "points": 15
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020014",
+            "user_id": "674993caa1b1f1e4d9010006",
+            "station_id": "S02",
+            "points": 7
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020015",
+            "user_id": "674993caa1b1f1e4d9010006",
+            "station_id": "S05",
+            "points": 9
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020016",
+            "user_id": "674993caa1b1f1e4d9010006",
+            "station_id": "S01",
+            "points": 12
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020017",
+            "user_id": "674993caa1b1f1e4d9010007",
+            "station_id": "S03",
+            "points": 18
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020018",
+            "user_id": "674993caa1b1f1e4d9010007",
+            "station_id": "S01",
+            "points": 20
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020019",
+            "user_id": "674993caa1b1f1e4d9010007",
+            "station_id": "S05",
+            "points": 14
+        },
+        {
+            "_id": "674993e1a1b1f1e4d902001a",
+            "user_id": "674993caa1b1f1e4d9010008",
+            "station_id": "S02",
+            "points": 11
+        },
+        {
+            "_id": "674993e1a1b1f1e4d902001b",
+            "user_id": "674993caa1b1f1e4d9010008",
+            "station_id": "S05",
+            "points": 17
+        },
+        {
+            "_id": "674993e1a1b1f1e4d902001c",
+            "user_id": "674993caa1b1f1e4d9010008",
+            "station_id": "S06",
+            "points": 16
+        },
+        {
+            "_id": "674993e1a1b1f1e4d902001d",
+            "user_id": "674993caa1b1f1e4d9010009",
+            "station_id": "S01",
+            "points": 20
+        },
+        {
+            "_id": "674993e1a1b1f1e4d902001e",
+            "user_id": "674993caa1b1f1e4d9010009",
+            "station_id": "S03",
+            "points": 21
+        },
+        {
+            "_id": "674993e1a1b1f1e4d902001f",
+            "user_id": "674993caa1b1f1e4d9010009",
+            "station_id": "S05",
+            "points": 20
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020020",
+            "user_id": "674993caa1b1f1e4d901000a",
+            "station_id": "S02",
+            "points": 10
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020021",
+            "user_id": "674993caa1b1f1e4d901000a",
+            "station_id": "S06",
+            "points": 20
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020022",
+            "user_id": "674993caa1b1f1e4d901000b",
+            "station_id": "S01",
+            "points": 25
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020023",
+            "user_id": "674993caa1b1f1e4d901000b",
+            "station_id": "S04",
+            "points": 30
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020024",
+            "user_id": "674993caa1b1f1e4d901000c",
+            "station_id": "S02",
+            "points": 19
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020025",
+            "user_id": "674993caa1b1f1e4d901000c",
+            "station_id": "S05",
+            "points": 20
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020026",
+            "user_id": "674993caa1b1f1e4d901000d",
+            "station_id": "S03",
+            "points": 21
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020027",
+            "user_id": "674993caa1b1f1e4d901000d",
+            "station_id": "S04",
+            "points": 23
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020028",
+            "user_id": "674993caa1b1f1e4d901000d",
+            "station_id": "S05",
+            "points": 20
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020029",
+            "user_id": "674993caa1b1f1e4d901000e",
+            "station_id": "S01",
+            "points": 16
+        },
+        {
+            "_id": "674993e1a1b1f1e4d902002a",
+            "user_id": "674993caa1b1f1e4d901000e",
+            "station_id": "S05",
+            "points": 30
+        },
+        {
+            "_id": "674993e1a1b1f1e4d902002b",
+            "user_id": "674993caa1b1f1e4d901000f",
+            "station_id": "S03",
+            "points": 25
+        },
+        {
+            "_id": "674993e1a1b1f1e4d902002c",
+            "user_id": "674993caa1b1f1e4d901000f",
+            "station_id": "S01",
+            "points": 24
+        },
+        {
+            "_id": "674993e1a1b1f1e4d902002d",
+            "user_id": "674993caa1b1f1e4d9010001",
+            "station_id": "S06",
+            "points": 0
+        },
+        {
+            "_id": "674993e1a1b1f1e4d902002e",
+            "user_id": "674993caa1b1f1e4d9010002",
+            "station_id": "S06",
+            "points": 0
+        },
+        {
+            "_id": "674993e1a1b1f1e4d902002f",
+            "user_id": "674993caa1b1f1e4d9010003",
+            "station_id": "S05",
+            "points": 0
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020030",
+            "user_id": "674993caa1b1f1e4d9010004",
+            "station_id": "S05",
+            "points": 0
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020031",
+            "user_id": "674993caa1b1f1e4d9010005",
+            "station_id": "S02",
+            "points": 0
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020032",
+            "user_id": "674993caa1b1f1e4d9010006",
+            "station_id": "S03",
+            "points": 0
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020033",
+            "user_id": "674993caa1b1f1e4d9010007",
+            "station_id": "S02",
+            "points": 0
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020034",
+            "user_id": "674993caa1b1f1e4d9010008",
+            "station_id": "S01",
+            "points": 0
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020035",
+            "user_id": "674993caa1b1f1e4d9010009",
+            "station_id": "S02",
+            "points": 0
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020036",
+            "user_id": "674993caa1b1f1e4d901000a",
+            "station_id": "S03",
+            "points": 0
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020037",
+            "user_id": "674993caa1b1f1e4d901000b",
+            "station_id": "S06",
+            "points": 0
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020038",
+            "user_id": "674993caa1b1f1e4d901000c",
+            "station_id": "S06",
+            "points": 0
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020039",
+            "user_id": "674993caa1b1f1e4d901000d",
+            "station_id": "S01",
+            "points": 0
+        },
+        {
+            "_id": "674993e1a1b1f1e4d902003a",
+            "user_id": "674993caa1b1f1e4d901000e",
+            "station_id": "S06",
+            "points": 0
+        },
+        {
+            "_id": "674993e1a1b1f1e4d902003b",
+            "user_id": "674993caa1b1f1e4d901000f",
+            "station_id": "S06",
+            "points": 0
+        },
+        {
+            "_id": "674993e1a1b1f1e4d902003c",
+            "user_id": "674993caa1b1f1e4d9010001",
+            "station_id": "S02",
+            "points": 0
+        },
+        {
+            "_id": "674993e1a1b1f1e4d902003d",
+            "user_id": "674993caa1b1f1e4d9010002",
+            "station_id": "S01",
+            "points": 0
+        },
+        {
+            "_id": "674993e1a1b1f1e4d902003e",
+            "user_id": "674993caa1b1f1e4d9010003",
+            "station_id": "S04",
+            "points": 0
+        },
+        {
+            "_id": "674993e1a1b1f1e4d902003f",
+            "user_id": "674993caa1b1f1e4d9010004",
+            "station_id": "S01",
+            "points": 0
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020040",
+            "user_id": "674993caa1b1f1e4d9010005",
+            "station_id": "S06",
+            "points": 0
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020041",
+            "user_id": "674993caa1b1f1e4d9010006",
+            "station_id": "S04",
+            "points": 0
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020042",
+            "user_id": "674993caa1b1f1e4d9010007",
+            "station_id": "S03",
+            "points": 0
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020043",
+            "user_id": "674993caa1b1f1e4d9010008",
+            "station_id": "S02",
+            "points": 0
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020044",
+            "user_id": "674993caa1b1f1e4d9010009",
+            "station_id": "S04",
+            "points": 0
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020045",
+            "user_id": "674993caa1b1f1e4d901000a",
+            "station_id": "S01",
+            "points": 0
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020046",
+            "user_id": "674993caa1b1f1e4d901000b",
+            "station_id": "S03",
+            "points": 0
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020047",
+            "user_id": "674993caa1b1f1e4d901000c",
+            "station_id": "S01",
+            "points": 0
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020048",
+            "user_id": "674993caa1b1f1e4d901000d",
+            "station_id": "S02",
+            "points": 0
+        },
+        {
+            "_id": "674993e1a1b1f1e4d9020049",
+            "user_id": "674993caa1b1f1e4d901000e",
+            "station_id": "S04",
+            "points": 0
+        },
+        {
+            "_id": "674993e1a1b1f1e4d902004a",
+            "user_id": "674993caa1b1f1e4d901000f",
+            "station_id": "S05",
+            "points": 0
+        }
+    ]
+}

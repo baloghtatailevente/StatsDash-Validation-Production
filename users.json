@@ -1,0 +1,124 @@
+{
+    "users": [
+        {
+            "_id": "674993caa1b1f1e4d9010001",
+            "firstname": "Alice",
+            "lastname": "Nguyen",
+            "class": "A1",
+            "points": 47,
+            "timestamp": "2025-11-05T08:32:10Z"
+        },
+        {
+            "_id": "674993caa1b1f1e4d9010002",
+            "firstname": "Ben",
+            "lastname": "Martinez",
+            "class": "A1",
+            "points": 65,
+            "timestamp": "2025-11-05T08:32:12Z"
+        },
+        {
+            "_id": "674993caa1b1f1e4d9010003",
+            "firstname": "Chloe",
+            "lastname": "Rossi",
+            "class": "A2",
+            "points": 33,
+            "timestamp": "2025-11-05T08:32:14Z"
+        },
+        {
+            "_id": "674993caa1b1f1e4d9010004",
+            "firstname": "David",
+            "lastname": "Singh",
+            "class": "A2",
+            "points": 59,
+            "timestamp": "2025-11-05T08:32:16Z"
+        },
+        {
+            "_id": "674993caa1b1f1e4d9010005",
+            "firstname": "Ella",
+            "lastname": "Khan",
+            "class": "A3",
+            "points": 40,
+            "timestamp": "2025-11-05T08:32:18Z"
+        },
+        {
+            "_id": "674993caa1b1f1e4d9010006",
+            "firstname": "Felix",
+            "lastname": "Brown",
+            "class": "A3",
+            "points": 28,
+            "timestamp": "2025-11-05T08:32:20Z"
+        },
+        {
+            "_id": "674993caa1b1f1e4d9010007",
+            "firstname": "Grace",
+            "lastname": "Zhou",
+            "class": "A1",
+            "points": 52,
+            "timestamp": "2025-11-05T08:32:22Z"
+        },
+        {
+            "_id": "674993caa1b1f1e4d9010008",
+            "firstname": "Henry",
+            "lastname": "Olsen",
+            "class": "A4",
+            "points": 44,
+            "timestamp": "2025-11-05T08:32:24Z"
+        },
+        {
+            "_id": "674993caa1b1f1e4d9010009",
+            "firstname": "Ivy",
+            "lastname": "Patel",
+            "class": "A2",
+            "points": 61,
+            "timestamp": "2025-11-05T08:32:26Z"
+        },
+        {
+            "_id": "674993caa1b1f1e4d901000a",
+            "firstname": "Jack",
+            "lastname": "Müller",
+            "class": "A3",
+            "points": 30,
+            "timestamp": "2025-11-05T08:32:28Z"
+        },
+        {
+            "_id": "674993caa1b1f1e4d901000b",
+            "firstname": "Kara",
+            "lastname": "Silva",
+            "class": "A4",
+            "points": 55,
+            "timestamp": "2025-11-05T08:32:30Z"
+        },
+        {
+            "_id": "674993caa1b1f1e4d901000c",
+            "firstname": "Leo",
+            "lastname": "Johnson",
+            "class": "A2",
+            "points": 39,
+            "timestamp": "2025-11-05T08:32:32Z"
+        },
+        {
+            "_id": "674993caa1b1f1e4d901000d",
+            "firstname": "Maya",
+            "lastname": "Anders",
+            "class": "A4",
+            "points": 64,
+            "timestamp": "2025-11-05T08:32:34Z"
+        },
+        {
+            "_id": "674993caa1b1f1e4d901000e",
+            "firstname": "Noah",
+            "lastname": "Kim",
+            "class": "A3",
+            "points": 46,
+            "timestamp": "2025-11-05T08:32:36Z"
+        },
+        {
+            "_id": "674993caa1b1f1e4d901000f",
+            "firstname": "Olivia",
+            "lastname": "Garcia",
+            "class": "A1",
+            "points": 49,
+            "timestamp": "2025-11-05T08:32:38Z"
+        }
+    ]
+}
